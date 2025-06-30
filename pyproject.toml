@@ -7,6 +7,3 @@ name = "lumache"
 authors = [{name = "Graziella", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
 
-# [tool.poetry.group.dev.dependencies]
-# pydata-sphinx-theme = "^0.16.1"
-
